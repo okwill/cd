@@ -1,5 +1,4 @@
 # cd
-
 Part B- Compiler Design Lab- Question Bank
 
 1. Write a C / C++ program to accept a C program and do error detection & correction for the following. (CO1) 
@@ -15,7 +14,7 @@ Check for un- terminated multi line comment statement in your C program.
 
 5. Write a Lex program to accept a C program and do the following error detection & correction.(CO1) 
 Check for the valid usages of numerical constants in the input C program. Intimate the invalid usages to user. 
-6 Check for valid declarative statements in your program. (CO1) eg: int a,b;
+6. Check for valid declarative statements in your program. (CO1) eg: int a,b;
 
 7. Write a Lex program to accept a C program and do the following error detection & correction.(CO1) 
 Check for the valid if statement in the input C program. Report the errors to users. 
